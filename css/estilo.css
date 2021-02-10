@@ -1,0 +1,31 @@
+header {
+  background-color: #166100;
+}
+
+#Titulo {
+  color: #C27C02;
+}
+
+input[type="button"] {
+  background-color: #BEFCB5;
+  color: #166100;
+  border-color: #166100;
+}
+
+input[type="button"]:hover {
+  background-color: #89F97A;
+  color: #166100;
+  border-color: #166100;
+}
+
+input[type="button"]:active {
+  background-color: #166100;
+  color: #BEFCB5;
+  border-color: #166100;
+}
+
+label {
+  color: #166100;
+  font: 185% Helvetica, sans-serif;
+}
+/*# sourceMappingURL=estilo.css.map */
