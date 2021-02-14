@@ -12,7 +12,9 @@
     "browser-sync": "^2.26.14",
     "gulp": "^4.0.2",
     "gulp-jsdoc3": "^3.0.0",
-    "jsdoc": "^3.6.6"
+    "gulp-sass": "^4.1.0",
+    "jsdoc": "^3.6.6",
+    "node-sass": "^5.0.0"
   },
   "dependencies": {
     "gulp-eslint": "^6.0.0"
